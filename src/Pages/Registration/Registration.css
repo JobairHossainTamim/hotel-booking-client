@@ -1,0 +1,11 @@
+input{
+    box-shadow: none !important;
+    margin-top: 10px;
+    border: 1px solid black !important;
+}
+.reg-header{
+    font-size: 30px !important;
+    padding: 10px;
+    font-weight: bold !important;
+    text-align: center;
+}

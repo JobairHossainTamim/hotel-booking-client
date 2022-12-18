@@ -1,0 +1,11 @@
+.landing{
+  
+    height:calc(100vh) !important;
+    background-color:rgb(0, 0, 0) !important;
+    
+  }
+  .landing .btn{
+    background-color:white !important;
+    color:black !important;
+    margin-top: 10px !important;
+  }
